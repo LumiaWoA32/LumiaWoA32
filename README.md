@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliwier</h1>
 <h3 align="center">Student from Poland</h3>
 
-- 🔭 I’m currently working on **Custom ROM's Compiling for greatlte and crownlte**
+- 🔭 I’m currently working on **Custom ROM's Compiling for crownlte**
 
 - 🌱 I’m currently learning **Android Compilling, various things in Windows and some other things**
 
